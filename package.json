@@ -12,6 +12,7 @@
     "eslint-plugin-standard": "^2.0.1"
   },
   "dependencies": {
+    "lazy-img": "reekoheek/lazy-img",
     "xin": "xinix-technology/xin#next"
   }
 }

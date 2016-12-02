@@ -532,6 +532,12 @@ jsonpointer@^4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/jsonpointer/-/jsonpointer-4.0.0.tgz#6661e161d2fc445f19f98430231343722e1fcbd5"
 
+lazy-img@reekoheek/lazy-img:
+  version "1.0.0"
+  resolved "https://codeload.github.com/reekoheek/lazy-img/tar.gz/09fbbe90c7981b0b0b9afbc346bd970bb42db76a"
+  dependencies:
+    xin xinix-technology/xin#next
+
 levn@^0.3.0, levn@~0.3.0:
   version "0.3.0"
   resolved "https://registry.yarnpkg.com/levn/-/levn-0.3.0.tgz#3b09924edf9f083c0490fdd4c0bc4421e04764ee"
