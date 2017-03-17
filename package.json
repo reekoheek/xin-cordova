@@ -13,6 +13,6 @@
   },
   "dependencies": {
     "lazy-img": "reekoheek/lazy-img",
-    "xin": "xinix-technology/xin#next"
+    "xin": "xinix-technology/xin#2.3.1"
   }
 }
